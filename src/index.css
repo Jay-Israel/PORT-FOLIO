@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  position: relative;
+}
+
+.glow:hover {
+  box-shadow: 0 0 25px rgb(37, 188, 247);
+}
+
+.img_glow {
+  box-shadow: 0 0 55px rgb(43, 177, 255);
+}
+
+.neno-button {
+  transition: all 0.3s ease-in-out;
+}
+
+.neno-button:hover {
+  box-shadow: 0 0 15px rgb(37, 198, 247);
+}
+
+.b_glow {
+  box-shadow: 0 0 25px rgb(37, 121, 247);
+}
+
+.project-image {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  position: relative;
+}
+
+.group:hover .project-image {
+  filter: blur(2px);
+}
+
+.group:hover .project-overlay {
+  opacity: 1;
+}
+
+.project-overlay {
+  transition: opacity 0.3s ease-in-out;
+}
+
+.glow {
+  transition: all 0.3s ease-in-out;
+}
+
+.glow:hover {
+  box-shadow: 0 0 25px rgb(25, 183, 231);
+}
+#me{
+   margin-bottom: 130px;
+}
+/* css */
