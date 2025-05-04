@@ -129,14 +129,14 @@ function Skills() {
         </a> ................*/}
 
 
-        <a
+        {/* ........PYTHON..........<a
           data-aos="fade-down"
           href="https://www.python.org/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaPython className=" text-[100px] flex items-center text-tertiary hover:text-gray-400 rounded-ss-3xl rounded-br-3xl b_glow p-2" />
-        </a>
+        </a> ...............*/}
 
 
 

@@ -1,5 +1,5 @@
 import img1 from "./assets/ENCRYPTADOR_ORACLE.jpg";
-import img2 from "./assets/sec.png";
+import img2 from "./assets/WEATHER_IOT.png";
 import img3 from "./assets/calcu.png";
 import img4 from "./assets/CONVERSOR.png";
 import img5 from "./assets/TRANSPORTES_X.jpg";
