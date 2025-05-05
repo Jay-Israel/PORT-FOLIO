@@ -1,16 +1,16 @@
 import { FaGithub } from "react-icons/fa6";
 import { FaLinkedinIn } from "react-icons/fa6";
-import img from "./assets/LOGO.png";
+import img from "./assets/LOG.png";
 
 function Footer() {
   return (
-    <footer className="bg-quaternary text-white px-4 py-8 md:px-12 lg:px-48">
+    <footer className="bg-gray-600 text-white px-4 py-8 md:px-12 lg:px-48">
       <div className="container flex flex-col lg:flex-row justify-between items-center mx-auto gap-4">
         <a href="/" rel="noopener noreferrer">
           <img
             src={img}
-            width={40}
-            height={40}
+            width={80}
+            height={80}
             className="rounded-full mb-4 lg:mb-0"
             alt="logo"
           />

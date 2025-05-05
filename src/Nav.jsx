@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-scroll";
 import { FaTimesCircle } from "react-icons/fa";
 import { TiThMenu } from "react-icons/ti";
-import img from "./assets/LOGO.png";
+import img from "./assets/log.png";
 
 function Nav() {
   const [click, setClick] = useState(false);
@@ -17,8 +17,8 @@ function Nav() {
           <a href="/" rel="noopener noreferrer">
             <img
               src={img}
-              width={40}
-              height={40}
+              width={70}
+              height={80}
               className="rounded-full"
               alt="logo"
             />

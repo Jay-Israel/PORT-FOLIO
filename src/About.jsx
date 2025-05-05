@@ -6,7 +6,7 @@ function About() {
   return (
     <div
       id="About"
-      className="lg:px-50 px-20 lg:py-0 py-20 text-center gap-5 lg-text-start flex lg:flex-row flex-col justify-between lg:gap-20 items-center"
+      className="lg:px-40 px-20 lg:py-0 py-20 text-center gap-5 lg-text-start flex lg:flex-row flex-col justify-between lg:gap-20 items-center"
     >
       <img
         id="me"
@@ -26,10 +26,11 @@ function About() {
         </h2>
         <p data-aos="fade-left" className="text-align: justify;">
           I am a Software Developer with a solid foundation in Front-End web
-          development. I graduated from Iscom Uviversity Benin Republic form the
-          Department of Computer Science of the Faculty of Pure and Applied
-          Sciences, then I Later proceded to sharpen my techinical Skills in
-          Software Devlopment{"@"}
+          development. I graduated from Iscom University Benin Republic from the
+          Department of Computer Science 
+          (Faculty of Pure and Applied
+          Sciences). I Later proceeded to sharpen my technical Skills in
+          Software Devlopment{" @"}
           <a
             className="text-xl text-violet-400 underline italic"
             href="https//www.Bluehouse Technologies.Com"
@@ -38,24 +39,24 @@ function About() {
             Bluehouse Technologies
           </a>
           . I’m currently pursuing a certificate award for Full-stack Software
-          Devlopment still form Bluehouse, where we are taught and tasked with
+          Devlopment still from Bluehouse, where we are taught and tasked with
           Jobs of building and maintaining Projects ranging from Junior to
-          Senior level App and Web Devlopment Coached by Mentors who are ready
-          to help where Neccesary. <br />
+          Senior level App and Web Devlopment coached by mentors who are ready
+          to help where neccesary. <br />
           Additionally, I am a Musician and a Producer with the talent in
-          Drumming and also I train willing individuals who want to understand
-          the concept of Computer Application in my Expertise field. <br />
-          and I previously pursued a course in Music Production. These
+          drumming. <br /> I train willing individuals who want to understand
+          the concept of Computer Application in my expertise field. <br />
+          I previously pursued a short course in Graphic design with Adobe Photoshop. These
           experiences have enriched my creative problem-solving skills in every
-          aspect that I learnt, which I now apply in the IT and programming
-          world. My passion for technology began early: I completed my first
-          Junior PC Operator course at age 17, even without owning a computer at
+          aspect that I learnt which I now apply in the IT and programming
+          world. My passion for technology began early; I completed my first
+          Junior PC Operator course at age 17 even without owning a computer at
           the time. <br /> I am a self-motivated and empathetic individual who
           thrives in collaborative environments. I enjoy learning from others,
-          sharing knowledge, and tackling challenges head-on. My journey
+          sharing knowledge and tackling challenges head-on. My journey
           reflects my deep enthusiasm for the IT field and my pride in evolving
           into a dedicated Developer.
-          <br />I look forward to potential collaborations or working with you
+          <br />I look forward to potential collaborations and also to work with you
           in the future.
         </p>
         <div className="flex mt-8 gap-2">

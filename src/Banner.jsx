@@ -12,7 +12,7 @@ function Banner() {
     loop: {},
     typeSpeed: 190,
     delaySpeed: 800,
-    deleteSpeed: 100,
+    deleteSpeed: 150,
   });
 
   useEffect(() => {
@@ -52,7 +52,7 @@ function Banner() {
             whiteSpace: "nowrap",
           }}
         >
-          HTML | CSS | JavaScript <br></br>| TYPESCRIPT | React  
+          HTML | CSS | JAVASCRIPT <br></br>| TYPESCRIPT | REACT  
         </p>
         <div className="flex mt-8 gap-4 justify-center lg:justify-center w-full">
           <a
