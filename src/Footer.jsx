@@ -1,6 +1,7 @@
-import { FaGithub } from "react-icons/fa6";
+import { FaGithub, FaTelegram } from "react-icons/fa6";
 import { FaLinkedinIn } from "react-icons/fa6";
 import img from "./assets/LOG.png";
+import { FaFacebook } from "react-icons/fa";
 
 function Footer() {
   return (
@@ -16,10 +17,10 @@ function Footer() {
           />
         </a>
         <div className="text-center lg:text-left mb-4 lg:mb-0">
-          <p className="text-lg font-bold">Cristian Vellio&#169; 2025</p>
+          <p className="text-lg font-bold">Joshua Ajagbe &#169; 2025</p>
         </div>
         <div className="text-center lg:text-left mb-4 lg:mb-0">
-          <h3 className="text-xl font-semibold text-primary py-2 uppercase">
+          <h3 className="text-xl font-semibold text-blue-400 py-2 uppercase">
             Formation as
           </h3>
           <ul className="text-lg font-bold">
@@ -27,23 +28,33 @@ function Footer() {
           </ul>
         </div>
         <div className="text-center lg:text-left">
-          <h3 className="text-xl font-semibold text-primary py-2 uppercase">
+          <h3 className="text-xl font-semibold text-blue-400 py-2 uppercase">
             Find Me on
           </h3>
           <div className="flex justify-center lg:justify-start space-x-4">
             <a
-              href="https://www.github.com/CristianVellio"
+              href="https://www.github.com/Jay-Israel"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-secondary hover:text-primary p-2"
+              className="text- hover:text-green-400 p-3"
             >
               <FaGithub className="text-3xl" />
             </a>
+
             <a
-              href="https://www.linkedin.com/in/cristianvellio"
+              href="https://www.Telegram.com/@kingolujosh"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-secondary hover:text-primary p-2"
+              className="text- hover:text-green-400 p-3"
+            >
+              <FaTelegram className="text-3xl" />
+            </a>
+
+            <a
+              href="https://www.linkedin.com/in/Joshua-Israel"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text- hover:text-green-400 p-3"
             >
               <FaLinkedinIn className="text-3xl" />
             </a>

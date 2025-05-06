@@ -1,4 +1,4 @@
-import img1 from "./assets/ENCRYPTADOR_ORACLE.jpg";
+import img1 from "./assets/TOONME.jpg";
 import img2 from "./assets/sec.jpg"
 import img3 from "./assets/calcu.png";
 import img4 from "./assets/stop.jpg";
@@ -6,11 +6,11 @@ import img5 from "./assets/TRANSPORTES_X.jpg";
 import img6 from "./assets/jay.jpg";
 import img7 from "./assets/church.PNG";
 import img8 from "./assets/adss.png";
-import img9 from "./assets/Resturantly.png";
-import img10 from "./assets/literalura.png";
+import img9 from "./assets/Resturantly.jpg";
+import img10 from "./assets/forms.jpg";
 import img11 from "./assets/Bienestar_Plus_Banner.png";
 import { FaReact, FaJava, FaPython, FaHtml5, FaCss3 } from "react-icons/fa";
-import { SiAngular } from "react-icons/si";
+import { SiAngular, SiTailwindcss, SiTypeform, SiTypescript } from "react-icons/si";
 import { AiOutlineJavaScript } from "react-icons/ai";
 
 function Projects() {
@@ -18,7 +18,7 @@ function Projects() {
     {
       img: img3,
       title: "Calculator App",
-      link: "https://github/jay-israel/calculator-main",
+      link: "https://github.com/Jay-Israel/sci-calculator",
       icon: <FaReact />,
     },
     // {
@@ -36,7 +36,7 @@ function Projects() {
     {
       img: img2,
       title: "Fullstack Weather Project IoT",
-      link: "https://github/jay-israel/weather-main",
+      link: "https://github.com/Jay-Israel/weather-app",
       icon: <FaHtml5 />,
     },
     {
@@ -61,26 +61,26 @@ function Projects() {
       img: img9,
       title: "Resturantly",
       link: "https://github.com/Jay-Israel/Food",
-      icon: <FaJava />,
+      icon: <FaHtml5 />,
     },
     {
       img: img10,
-      title: "LiterAlura (BackEnd)",
-      link: "https://github.com/CristianVellio/LiterAlura",
-      icon: <FaJava />,
+      title: "Authentication-Forms",
+      link: "https://typescript.com/form",
+      icon: <SiTypescript />,
     },
     {
       img: img1,
-      title: "Text Encrypter (FrontEnd)",
+      title: "TOONS(FrontEnd)",
       link: "https://encrypter-oracle-one.vercel.app/",
       icon: <FaHtml5 />,
     },
-    {
-      img: img5,
-      title: "Transportation Co. (FrontEnd)",
-      link: "https://transportex-x-utn-frba.netlify.app/",
-      icon: <FaHtml5 />,
-    },
+    // {
+    //   img: img5,
+    //   title: "Transportation Co. (FrontEnd)",
+    //   link: "https://transportex-x-utn-frba.netlify.app/",
+    //   icon: <FaHtml5 />,
+    // },
   ];
 
   return (
