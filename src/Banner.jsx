@@ -8,7 +8,7 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 
 function Banner() {
   const [text] = useTypewriter({
-    words: ["...?", "Front-End", "Software"],
+    words: ["...?", 'Full-stack','Front-End',"Back-End", "Software" ],
     loop: {},
     typeSpeed: 190,
     delaySpeed: 800,
@@ -52,7 +52,7 @@ function Banner() {
             whiteSpace: "nowrap",
           }}
         >
-          HTML | CSS | JAVASCRIPT <br/> |TYPESCRIPT| REACT  
+          HTML | CSS | JAVASCRIPT <br/> | TYPESCRIPT | REACT  
         </p>
         <div className="flex mt-8 gap-4 justify-center lg:justify-center w-full">
           <a
