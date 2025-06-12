@@ -1,6 +1,6 @@
 import { FaGithub, FaTelegram } from "react-icons/fa6";
 import { FaLinkedinIn } from "react-icons/fa6";
-import img from "./assets/LOG.png";
+import img from "./assets/log.png";
 import { FaFacebook } from "react-icons/fa";
 
 function Footer() {
