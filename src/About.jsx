@@ -27,13 +27,12 @@ function About() {
         <p data-aos="fade-left" className="text-align: justify;">
           I am a Software Developer with a solid foundation in Front-End web
           development. I graduated from Iscom University Benin Republic from the
-          Department of Computer Science 
-          (Faculty of Pure and Applied
-          Sciences). I Later proceeded to sharpen my technical Skills in
-          Software Devlopment{" @"}
+          Department of Computer Science (Faculty of Pure and Applied Sciences).
+          I Later proceeded to sharpen my technical Skills in Software
+          Devlopment{" @"}
           <a
             className="text-xl text-violet-400 underline italic"
-            href="https//www.Bluehouse Technologies.Com"
+            href="https://www.bluehouseng.com/"
             target="blank"
           >
             Bluehouse Technologies
@@ -46,18 +45,18 @@ function About() {
           Additionally, I am a Musician and a Producer with the talent in
           drumming. <br /> I train willing individuals who want to understand
           the concept of Computer Application in my expertise field. <br />
-          I previously pursued a short course in Graphic design with Adobe Photoshop. These
-          experiences have enriched my creative problem-solving skills in every
-          aspect that I learnt which I now apply in the IT and programming
-          world. My passion for technology began early; I completed my first
-          Junior PC Operator course at age 17 even without owning a computer at
-          the time. <br /> I am a self-motivated and empathetic individual who
-          thrives in collaborative environments. I enjoy learning from others,
-          sharing knowledge and tackling challenges head-on. My journey
-          reflects my deep enthusiasm for the IT field and my pride in evolving
-          into a dedicated Developer.
-          <br />I look forward to potential collaborations and also to work with you
-          in the future.
+          I previously pursued a short course in Graphic design with Adobe
+          Photoshop. These experiences have enriched my creative problem-solving
+          skills in every aspect that I learnt which I now apply in the IT and
+          programming world. My passion for technology began early; I completed
+          my first Junior PC Operator course at age 17 even without owning a
+          computer at the time. <br /> I am a self-motivated and empathetic
+          individual who thrives in collaborative environments. I enjoy learning
+          from others, sharing knowledge and tackling challenges head-on. My
+          journey reflects my deep enthusiasm for the IT field and my pride in
+          evolving into a dedicated Developer.
+          <br />I look forward to potential collaborations and also to work with
+          you in the future.
         </p>
         <div className="flex mt-8 gap-2">
           <div className="flex items-center justify-center">

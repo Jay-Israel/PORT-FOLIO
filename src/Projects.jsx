@@ -42,7 +42,7 @@ function Projects() {
     {
       img: img4,
       title: "Stop-Watch",
-      link: "https://github.com/jay-israel/stopwatch",
+      link: "https://github.com/Jay-Israel/stop-watch",
       icon: <AiOutlineJavaScript />,
     },
     {
@@ -72,7 +72,7 @@ function Projects() {
     {
       img: img1,
       title: "TOONS(FrontEnd)",
-      link: "https://encrypter-oracle-one.vercel.app/",
+      link: "",
       icon: <FaHtml5 />,
     },
     // {

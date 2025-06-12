@@ -52,7 +52,7 @@ function Banner() {
             whiteSpace: "nowrap",
           }}
         >
-          HTML | CSS | JAVASCRIPT <br></br>| TYPESCRIPT | REACT  
+          HTML | CSS | JAVASCRIPT <br/> |TYPESCRIPT| REACT  
         </p>
         <div className="flex mt-8 gap-4 justify-center lg:justify-center w-full">
           <a
