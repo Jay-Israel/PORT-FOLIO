@@ -4,7 +4,7 @@ import img3 from "./assets/calcu.png";
 import img4 from "./assets/stop.jpg";
 import img5 from "./assets/TRANSPORTES_X.jpg";
 import img6 from "./assets/jay.jpg";
-import img7 from "./assets/church.PNG";
+import img7 from "./assets/church.png";
 import img8 from "./assets/adss.png";
 import img9 from "./assets/Resturantly.jpg";
 import img10 from "./assets/forms.jpg";
