@@ -42,7 +42,7 @@ function Footer() {
             </a>
 
             <a
-              href="https://www.Telegram.com/@kingolujosh"
+              href="https://t.me/kingolujosh"
               target="_blank"
               rel="noopener noreferrer"
               className="text- hover:text-green-400 p-3"
@@ -51,7 +51,7 @@ function Footer() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/Joshua-Israel"
+              href="https://www.linkedin.com/in/joshua-ajagbe-8ab881309/"
               target="_blank"
               rel="noopener noreferrer"
               className="text- hover:text-green-400 p-3"
