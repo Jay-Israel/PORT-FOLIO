@@ -52,7 +52,7 @@ function Banner() {
             whiteSpace: "nowrap",
           }}
         >
-          HTML | CSS | JAVASCRIPT <br/> | TYPESCRIPT | REACT  
+          HTML | CSS | JAVASCRIPT <br /> | TYPESCRIPT | REACT
         </p>
         <div className="flex mt-8 gap-4 justify-center lg:justify-center w-full">
           <a
@@ -64,7 +64,7 @@ function Banner() {
             <FaGithub className="text-[48px]" />
           </a>
           <a
-            href="https://www.linkedin.com/in/Joshua-Israel"
+            href="https://www.linkedin.com/in/joshua-ajagbe-8ab881309/"
             target="_blank"
             rel="noopener noreferrer"
             className="text hover:text-white rounded-full glow p-4"
@@ -73,7 +73,8 @@ function Banner() {
           </a>
         </div>
       </div>
-      <img id="me"
+      <img
+        id="me"
         data-aos="fade-up"
         src={img}
         width={400}
