@@ -41,9 +41,9 @@ function About() {
           Devlopment still from Bluehouse, where we are taught and tasked with
           Jobs of building and maintaining Projects ranging from Junior to
           Senior level App and Web Devlopment coached by mentors who are ready
-          to help where neccesary. <br />
-          Additionally, I am a Musician and a Producer with the talent in
-          drumming. <br /> I train willing individuals who want to understand
+          to help where neccesary.
+          {/* Additionally, I am a Musician and a Producer with the talent in
+          drumming.*/} <br /> I train willing individuals who want to understand 
           the concept of Computer Application in my expertise field. <br />
           I previously pursued a short course in Graphic design with Adobe
           Photoshop. These experiences have enriched my creative problem-solving
