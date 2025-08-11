@@ -77,8 +77,8 @@ function Banner() {
         id="me"
         data-aos="fade-up"
         src={img}
-        width={400}
-        height={290}
+        width={350}
+        height={250}
         className="rounded-full aspect-sqaure border-2 p-1 border-tertiary img_glow"
         alt="Joshua Ajagbe"
       />
