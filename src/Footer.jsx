@@ -51,7 +51,7 @@ function Footer() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/joshua-ajagbe-8ab881309/"
+              href="https://www.linkedin.com/in/Joshua-ajagbe-9723a73"
               target="_blank"
               rel="noopener noreferrer"
               className="text- hover:text-green-400 p-3"
