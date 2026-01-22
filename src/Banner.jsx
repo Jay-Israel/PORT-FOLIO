@@ -41,7 +41,7 @@ function Banner() {
             <Cursor cursorStyle="</>" />
           </span>
           <br />
-          <span className="text-primary text-white"> Developer</span>
+          <span className="text-primary text-white"> Engineer</span>
         </h1>
         <p
           data-aos="fade-left"
@@ -52,7 +52,7 @@ function Banner() {
             whiteSpace: "nowrap",
           }}
         >
-          HTML | CSS | JAVASCRIPT <br /> | TYPESCRIPT | REACT
+          HTML | CSS | JAVASCRIPT <br /> | TYPESCRIPT | REACT | NEXT.JS| 
         </p>
         <div className="flex mt-8 gap-4 justify-center lg:justify-center w-full">
           <a
