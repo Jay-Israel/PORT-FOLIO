@@ -1,5 +1,5 @@
 import img from "./assets/TOONME.jpg";
-import JOSHUA_OLUWASEGUN_AJAGBE_CV from "./assets/JOSHUA_OLUWASEGUN_AJAGBE_CV.pdf";
+import AJAGBE_JOSHUA_FAVOUR_CV_ from "./assets/AJAGBE_JOSHUA_FAVOUR_CV_.pdf";
 
 
 function About() {
@@ -15,7 +15,7 @@ function About() {
         width={350}
         height={290}
         className="rounded-full border-2 p-1 border-tertiary img_glow"
-        alt="Cristian Vellio"
+        alt="JOSHUA AJAGBE"
       />
       <div className="h-full lg:py-40 flex flex-col justify-center lg:items-center items-center text-white">
         <h2
@@ -43,8 +43,9 @@ function About() {
           Senior level App and Web Devlopment coached by mentors who are ready
           to help where neccesary.
           {/* Additionally, I am a Musician and a Producer with the talent in
-          drumming.*/} <br /> I train willing individuals who want to understand 
-          the concept of Computer Application in my expertise field. <br />
+          drumming.*/}{" "}
+          <br /> I train willing individuals who want to understand the concept
+          of Computer Application in my expertise field. <br />
           I previously pursued a short course in Graphic design with Adobe
           Photoshop. These experiences have enriched my creative problem-solving
           skills in every aspect that I learnt which I now apply in the IT and
@@ -63,8 +64,8 @@ function About() {
             <div className="flex space-x-2"></div>
             <button className="neno-button shadow-xl hover:shadow-secondary/50  text-white border-2 hover:bg-secondary border-tertiary rounded-lg py-4 px-8 uppercase relative overflow-hidden ">
               <a
-                href={JOSHUA_OLUWASEGUN_AJAGBE_CV}
-                download="JOSHUA_OLUWASEGUN_AJAGBE_CV"
+                href={AJAGBE_JOSHUA_FAVOUR_CV_}
+                download="JOSHUA-FAVOUR-AJAGBE-CV-"
               >
                 Download Resume (EN)
               </a>

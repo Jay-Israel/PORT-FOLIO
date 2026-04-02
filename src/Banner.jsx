@@ -41,7 +41,7 @@ function Banner() {
             <Cursor cursorStyle="</>" />
           </span>
           <br />
-          <span className="text-primary text-white"> Developer</span>
+          <span className="text-primary text-white"> Engineer</span>
         </h1>
         <p
           data-aos="fade-left"
@@ -52,7 +52,7 @@ function Banner() {
             whiteSpace: "nowrap",
           }}
         >
-          HTML | CSS | JAVASCRIPT <br /> | TYPESCRIPT | REACT
+          HTML | CSS | JAVASCRIPT <br /> | TYPESCRIPT | REACT | NEXT.JS | 
         </p>
         <div className="flex mt-8 gap-4 justify-center lg:justify-center w-full">
           <a
@@ -64,7 +64,7 @@ function Banner() {
             <FaGithub className="text-[48px]" />
           </a>
           <a
-            href="https://www.linkedin.com/in/joshua-ajagbe-8ab881309/"
+            href="https://www.linkedin.com/in/Joshua-ajagbe-9723a73"
             target="_blank"
             rel="noopener noreferrer"
             className="text hover:text-white rounded-full glow p-4"

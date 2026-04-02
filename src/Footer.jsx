@@ -17,14 +17,14 @@ function Footer() {
           />
         </a>
         <div className="text-center lg:text-left mb-4 lg:mb-0">
-          <p className="text-lg font-bold">Joshua Ajagbe &#169; 2025</p>
+          <p className="text-lg font-bold">Joshua Ajagbe &#169; 2026</p>
         </div>
         <div className="text-center lg:text-left mb-4 lg:mb-0">
           <h3 className="text-xl font-semibold text-blue-400 py-2 uppercase">
             Formation as
           </h3>
           <ul className="text-lg font-bold">
-            <li className="my-2">Software Developer</li>
+            <li className="my-2">Software Engineer</li>
           </ul>
         </div>
         <div className="text-center lg:text-left">
@@ -51,7 +51,7 @@ function Footer() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/joshua-ajagbe-8ab881309/"
+              href="https://www.linkedin.com/in/joshua-ajagbe-9723a73b3"
               target="_blank"
               rel="noopener noreferrer"
               className="text- hover:text-green-400 p-3"
